@@ -15,9 +15,17 @@ We propose **Quantum Time-index Models with Reservoir (QuantumTime)** — a **qu
 
 Our model builds upon and extends the framework proposed in the ICML 2023 paper:
 
-> Gerald Woo, Chenghao Liu, Doyen Sahoo, Akshat Kumar, and Steven C. H. Hoi.  
-> *Learning Deep Time-index Models for Time Series Forecasting.*  
-> ICML 2023, [PMLR v202](https://proceedings.mlr.press/v202/woo23b.html)
+Gerald Woo, Chenghao Liu, Doyen Sahoo, Akshat Kumar, and Steven C. H. Hoi.  
+*Learning Deep Time-index Models for Time Series Forecasting.*  
+ICML 2023, Proceedings of Machine Learning Research, Vol. 202.  
+[https://proceedings.mlr.press/v202/woo23b.html](https://proceedings.mlr.press/v202/woo23b.html)
+
+We also draw inspiration from the recent work on quantum implicit neural representations:
+
+Jiaming Zhao, Wenbo Qiao, Peng Zhang, and Hui Gao.  
+*Quantum Implicit Neural Representations.*  
+Forty-first International Conference on Machine Learning (ICML 2024).  
+[https://openreview.net/forum?id=50vc4HBuKU](https://openreview.net/forum?id=50vc4HBuKU)
 
 ## ▶️ Run the Forecasting Model
 
