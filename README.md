@@ -29,7 +29,7 @@ Forty-first International Conference on Machine Learning (ICML 2024).
 
 ## ▶️ Run the Forecasting Model
 
-You can train and evaluate the model using the following command:
+You can train the model using the following command:
 
 ```bash
 python -m experiments.forecast --config_path=experiments/configs/'dataset_name'/'config_file' run
